@@ -9,7 +9,7 @@ on:
 jobs:
    ci:
     name: Deployment
-    uses: amauriciolab/.github/workflows/gha.workflows.build-node.yml@main
+    uses: amauriciolab/github-actions-templates/.github/workflows/gha.workflows.build-node.yml@main
 
 
  
